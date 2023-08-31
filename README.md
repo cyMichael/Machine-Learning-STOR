@@ -5,7 +5,7 @@ Spring 2021, Machine Learning STOR 565
 
 **Data link**: [https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records#](https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records#)
 
-**Final project link**: [https://github.com/cyMichael/Machine-Learning-STOR/blob/main/Final_report_group_Yi%20Cui.pdf](https://github.com/cyMichael/Machine-Learning-STOR/blob/main/Final_report_group_Yi%20Cui.pdf)
+**Final project link**: [https://cymichael.github.io/files/Final_report_group_Yi%20Cui.pdf](https://cymichael.github.io/files/Final_report_group_Yi%20Cui.pdf)
 
 **Abstract**:
 
